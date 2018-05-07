@@ -1,0 +1,7 @@
+#!/bin/bash
+
+if [[ "$(uname -s)" == Darwin ]]; then
+	./udpipe.osx --tokenize --tag --parse ./danish-ud-2.0-170801.udpipe $1
+else
+	./udpipe.lin64 --tokenize --tag --parse ./danish-ud-2.0-170801.udpipe $1
+fi
