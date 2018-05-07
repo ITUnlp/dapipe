@@ -9,6 +9,6 @@ To run:
 
 * Download and, if needed, unzip
 * In the same directory as the code, where your text is in "textfile", run:
-  * udpipe <textfile> (Windows)
-  * ./udpipe <textfile> (Mac or Linux)
+  * `udpipe <textfile>` (Windows)
+  * `./udpipe <textfile>` (Mac or Linux)
   
