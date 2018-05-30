@@ -12,3 +12,8 @@ To run:
   * `udpipe <textfile>` (Windows)
   * `./udpipe <textfile>` (Mac or Linux)
   
+## Acknowledgments
+This tool uses [UDPipe](http://ufal.mff.cuni.cz/udpipe).
+
+## License
+dapipe is licensed under [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/). This is inherited from UDPipe.
